@@ -9,7 +9,7 @@ public class Config {
     public static final String VERSION = "1.0.0";
     public static final String BETA_PREFIX = "!";
     public static final String NORMAL_PREFIX = "s!";
-    public static final String TOKEN = "NDc5MDQ5Nzc2ODE0MzU4NTMx.DpuWpA.7Dnk9DHdN-PIRmFE3-yemlByCck";
+    public static final String TOKEN = "";
     public static final String BOTID = "479049776814358531";
     public static final String OWNERID = "231733082804322304";
     public static final String SERVERINVITE = "https://discord.gg/76PAmCv";
