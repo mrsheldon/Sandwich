@@ -1,3 +1,3 @@
 # Sandwich
 
-A Discord bot made with JDA by MrSheldon
+A simple Discord bot made with JDA 
